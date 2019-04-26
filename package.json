@@ -1,0 +1,22 @@
+{
+  "name": "js-interview-self-prepare",
+  "version": "1.0.0",
+  "description": "Interview JS question, collecting from different sources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legndery/js-interview-self-prepare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legndery/js-interview-self-prepare/issues"
+  },
+  "homepage": "https://github.com/legndery/js-interview-self-prepare#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
